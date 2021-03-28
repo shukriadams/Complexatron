@@ -1,4 +1,4 @@
-module Complexatron
+module github.com/shukriadams/Complexatron
 
 go 1.16
 
